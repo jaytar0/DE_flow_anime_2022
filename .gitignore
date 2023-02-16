@@ -1,0 +1,8 @@
+# files and directories to ignore
+/self_notes
+*.env
+/plugins
+/logs
+/anime_data
+/data
+/git
