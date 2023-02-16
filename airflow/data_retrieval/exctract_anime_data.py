@@ -54,12 +54,6 @@ def data_reader():
     #logging.info("Dataframe shape\n")
     #logging.info(df.shape)
     print(df.shape)
-
-
-# A method that showcases simple pandas transforms to normalize some fields
-def data_transformer():
-
-    df = pd.read_csv("/opt/airflow/data/anime-dataset-2022.csv")
     
 
 # Configurator
@@ -69,11 +63,9 @@ def main():
     logging.basicConfig(format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S')
 
     # Fetching data from Kaggle
-    #fetch_data()
+    fetch_data()
     # Testing data
-    data_reader()
-    # Performing Simple Transformations
-    data_transformer()
+    #data_reader()
 
 
 if __name__ == "__main__":
