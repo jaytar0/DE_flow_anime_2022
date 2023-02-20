@@ -17,8 +17,8 @@ As anime was one of my favorite childhoood/early years pass times, it was defini
 
 
 ## Steps
-1. [Data Source](https://github.com/user/repo/blob/branch/other_file.md)
-2. [Docker & Airflow](https://github.com/user/repo/blob/branch/other_file.md)
-3. [Postgres & Snowflake](https://github.com/user/repo/blob/branch/other_file.md)
-4. [DBT](https://github.com/user/repo/blob/branch/other_file.md)
-5. [Dashboarding](https://github.com/user/repo/blob/branch/other_file.md)
+1. [Data Source](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/data_source.md)
+2. [Docker & Airflow](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/docker_airflow.md)
+3. [Postgres & Snowflake](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
+4. [DBT](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dbt_process.md)
+5. [Dashboarding](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dash.md)
