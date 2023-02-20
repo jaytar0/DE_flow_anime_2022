@@ -2,14 +2,15 @@
 This project shows an end to end DE projec on 2022 japanese animation data, to derive interesting insights of the genreal trends surrounding anime up to date and more focused views within animation studios.
 
 ## Data Stack
+![flow](/assets/flow_chart.png)
+*Visual diagram was self made in figma*
+
 - Docker
 - Airflow
 - Postgres & Snowflake
 - DBT
 - Looker & PowerBI
 
-![flow](/assets/flow_chart.png)
-*Visual diagram was self made in figma*
 
 ## Output Example
 
