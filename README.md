@@ -1,5 +1,6 @@
 # DE_flow_anime_2022
-This project shows an end to end DE projec on 2022 japanese animation data, to derive interesting insights of the genreal trends surrounding anime up to date and more focused views within animation studios.
+As anime was one of my favorite childhoood/early years pass-time, it was definitely one of the topics that I wanted to do a data project on. This project shows an end to end Data Engineering project on japanese animation data (collected as of 2022), to derive interesting insights of the genreal trends surrounding anime and more focused analytical views within sub categories of the data.
+
 
 ## Data Stack
 ![flow](/assets/flow_chart.png)
