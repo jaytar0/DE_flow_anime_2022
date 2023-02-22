@@ -14,7 +14,7 @@ As anime was one of my favorite childhoood/early years pass times, it was defini
 
 
 ## Output Example
-
+![dash](/assets/anime_dash.png)
 
 ## Steps
 1. [Data Source](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/data_source.md)
