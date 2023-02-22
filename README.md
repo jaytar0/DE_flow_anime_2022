@@ -17,6 +17,9 @@ As anime was one of my favorite childhoood/early years pass times, it was defini
 ## Output Example
 ![dash](/assets/anime_dash.png)
 
+[Link to Live Dashboard](https://lookerstudio.google.com/s/mLPRgy9NtaM)
+
+
 ## Steps
 1. [Data Source](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/data_source.md)
 2. [Docker & Airflow](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/docker_airflow.md)
