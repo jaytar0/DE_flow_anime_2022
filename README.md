@@ -15,7 +15,7 @@ As anime was one of my favorite childhoood/early years pass times, it was defini
 
 
 ## Output Example
-![dash](/assets/anime_dash.png)
+![dash](/assets/anime_board.png)
 
 [Link to Live Dashboard](https://lookerstudio.google.com/s/mLPRgy9NtaM)
 
