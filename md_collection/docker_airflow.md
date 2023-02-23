@@ -26,7 +26,9 @@ RUN pip uninstall apache-airflow-providers-google -y \
     && pip uninstall snowflake
 ```
 
+
 > Note: I had trouble with setting up snowflake because there was already a python package named snowflake. Uninstalling on setup seemed to fix it.
+
 
 Once I had everything setup I ran these commands and got this result.
 ```
