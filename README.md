@@ -9,6 +9,7 @@ I hope you enjoy the results!
 ## Project Flowchart
 The general infrastructure of this project will be centered around what has been shown in the charts.
 
+
 ![flow](/assets/flow_chart.png)
 *Visual diagram was self made in figma*
 
