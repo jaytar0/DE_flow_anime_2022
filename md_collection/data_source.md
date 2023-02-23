@@ -12,6 +12,6 @@ We will be working with the python [Kaggle API](https://github.com/Kaggle/kaggle
 2. Collect the correct credentials.
 3. Using the docs provide the correct usage in your scripts.
 
-More details can be found in the the '''/airflow/data_retrieval''' directory.
+More details can be found in the the ```/airflow/data_retrieval``` directory.
 
 [Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/docker_airflow.md)
