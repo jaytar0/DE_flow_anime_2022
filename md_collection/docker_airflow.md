@@ -83,7 +83,7 @@ Once everything is setup and linked in the main dag it looked something like thi
 ![image](/assets/airflow_dag_graph.png)
 
 
-[Back]()|[Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
+[Back](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/data_source.md) | [Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
 
 
 
