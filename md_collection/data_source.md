@@ -14,4 +14,6 @@ We will be working with the python [Kaggle API](https://github.com/Kaggle/kaggle
 
 More details can be found in the the ```/airflow/data_retrieval``` directory.
 
+Before I continued to the next phase, some basic data exploration was done in a simple python script with pandas and maplotlib just so I had a good idea of what I was working with going forward, while jotting down transformation + data cleaning notes. Generally I believe this is good practice as the data might not be entirely clean and ready to use from the get go.
+
 [Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/docker_airflow.md)
