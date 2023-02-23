@@ -1,6 +1,6 @@
 # Data Sources
 
-The datasource used for this project was from kaggle [Anime DataSet 2022](https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022) uploaded by [Vishal Mane](). The author has webscraped official data from [anime-planet](https://www.anime-planet.com/) a popular anime media site.
+The datasource used for this project was from kaggle [Anime DataSet 2022](https://www.kaggle.com/datasets/vishalmane10/anime-dataset-2022) uploaded by [Vishal Mane](). The author has webscraped official data from [anime-planet](https://www.anime-planet.com/) a popular anime media site. Even though this is not considered a large dataset, it includes everything we need in terms of number of media entries (rows) as well as 17 unique fields (columns) for transformations/analysis later on.
 
 
 I have thought about scraping for the data myself on several occassions as that is something I'm definitely familiar with doing. However, due to the project scope, time-limit, and what I preferred to showcase, I will not be doing that here.
