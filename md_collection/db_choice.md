@@ -30,4 +30,6 @@ Below is an example query on a known anime studio ```ufotable```.
 ![image](/assets/snowflake_query_example.png)
 
 
+> I am also aware that there are CLI interactions available for both of these but for the sake of having a more visually pleasing report I have included the UI
+
 [Back](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md) | [Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dbt_process.md)
