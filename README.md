@@ -1,5 +1,5 @@
 # DE_flow_anime_2022
-This project shows an end to end Data Engineering project on japanese animation using data collected as of 2022 from anime planet from a kaggle source. My aim is to derive interesting insights of the genreal trends surrounding anime and put some focus on analytical views within certain subcategories, all while showcasing professional skills from both data engineering and analytics.
+This project shows an end to end Data Engineering project on Japanese animation using data collected as of 2022 from anime planet from a kaggle source. My aim is to derive interesting insights of the genreal trends surrounding anime and put some focus on analytical views within certain subcategories, all while showcasing professional skills from both data engineering and analytics.
 
 ## Inspiraations
 Anime was one of my favorite childhoood/early years pass times and to this day I still watch one or two from time to time from friend recommendations. It's one of those entertainment forms that will hold a timeless value to me. Thus, I thought I would give a go at applying some of what I love to my work and here is what has come to fruition.
