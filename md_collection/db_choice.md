@@ -32,4 +32,7 @@ Below is an example query on a known anime studio ```ufotable```.
 
 > I am also aware that there are CLI interactions available for both of these but for the sake of having a more visually pleasing report I have included the UI
 
+
+After having these results both up, I think it is also good practice to validate your data. I have further played around with other methods as well as explored the data deeper than I had initially with python via SQL in their respective worksheets.
+
 [Back](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md) | [Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dbt_process.md)
