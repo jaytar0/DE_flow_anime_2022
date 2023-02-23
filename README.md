@@ -24,7 +24,7 @@ The general infrastructure of this project will be centered around what has been
 Here is the final output from what I have mocked up using google looker studio. The power BI version will be available for this project later on, since I'm still experimenting with some visuals. If you would like to look at a sample of what I can do in power BI please reference the dashboard samples I have available in the main repository.
 
 
-![dash](/assets/dash_anime.png)
+![dash](/assets/dash_update.png)
 
 [Link to Live Dashboard](https://lookerstudio.google.com/s/mLPRgy9NtaM)
 
