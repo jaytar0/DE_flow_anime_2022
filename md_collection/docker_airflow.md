@@ -65,9 +65,13 @@ These separate scripts created are located in the ```/airflow/data_retrieval``` 
     Similar to step 2 just repeated with our cloud storage snowflake
     
     
+    
+    
 
 > Steps 2 and 3 require credentials and setup, to learn more please go to their official pages to learn more.
 > Learning these were rather painless as both had stellar documentation, and I had pripr experience using it already.
+
+
 
 
 Once everything is setup and linked in the main dag it looked something like this.
