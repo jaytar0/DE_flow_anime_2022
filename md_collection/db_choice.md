@@ -19,7 +19,7 @@ Below is an example query using ```*``` to see the data.
 
 
 ## Snowflake
-Here is an example of the results of the extract load process from the DAG we created.
+Here is an example of the results of the extract load process from the DAG we created. Process can be found by logging onto ``` snowflake``` and navigating through the easy to use UI.
 
 ![image](/assets/snowflake_ui.png)
 
