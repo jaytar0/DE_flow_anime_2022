@@ -34,5 +34,5 @@ docker-compose up airflow-init
 docker-compose up
 ```
 
-[image](/assets/docker_ui.png)
+[image](../assets/docker_ui.png)
 
