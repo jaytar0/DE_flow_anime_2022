@@ -2,6 +2,9 @@
 
 Continuing from the data exploration phase, we are ready to get docker and all environments setup. Before this I had already setup a git repo and opened it in visual studio code.
 
+> Also on a side note I had created my credentials and accounts for snowflake so I had my connection details for the upload process, you will see more on what it actually looks like in the next step
+
+
 1. We will be using airflow for pipeline orcehstration purposes. I picked airflow because it was the most common one being used but would also like to learn other methods in the future like (prefect and dagster). 
 2. Our DAG(s) (directed acrylic graph), will be defined in this process helping with the automation, shceduling, and reusability of our extract and load phases.
 3. Docker will be used to create containers and images that run our processes/services, we will be defining this via the docker-compose file.
@@ -49,12 +52,19 @@ Compared to some other processes I have worked with, this is an extremely simple
 These separate scripts created are located in the ```/airflow/data_retrieval``` directory and do the following in order:
 
 1. ```extract_anime_data.py```
+
     Utilizes the the Kaggle python API to request data, which was part written in our data acquisition phase. I left out the code pertaining to data exploration but
     left in a method that does just that so you have an idea where it can go.
+    
 2. ```upload_postgres.py```
+
     Takes the data from the extraction process, connects to our postgres database and funnels uploads it there.
+    
 3. ```upload_snowflake.py```
+
     Similar to step 2 just repeated with our cloud storage snowflake
+    
+    
 
 > Steps 2 and 3 require credentials and setup, to learn more please go to their official pages to learn more.
 > Learning these were rather painless as both had stellar documentation, and I had pripr experience using it already.
@@ -69,7 +79,7 @@ Once everything is setup and linked in the main dag it looked something like thi
 ![image](/assets/airflow_dag_graph.png)
 
 
-[Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
+[Back]()|[Next Step](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
 
 
 
