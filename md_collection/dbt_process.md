@@ -6,13 +6,16 @@ We will be requiring transformations on certain fields as well as any extra metr
 
 
 ## Steps
-First and foremost we need to setup DBT, there should be a 14-day free trial for the cloud version where you get an IDE versus the open source free CLI that I would have normally been using. I thought it would be good practice here since this is most likely what orgs and companies use.
+
+> First and foremost we need to setup DBT, there should be a 14-day free trial for the cloud version where you get an IDE versus the open source free CLI that I would have normally been using. I thought it would be good practice here since this is most likely what orgs and companies use.
+
 
 1. Create your dbt account.
 2. Setup your database connection via their wizard, DBT does a good job as they pretty much just spoon feed you during this process.
 3. If you have a github account there are ways to link a repository you can find more in their getting setup section [here](https://docs.getdbt.com/docs/get-started/getting-started/set-up-dbt-cloud)
 4. After you are linked up to your db there should be an initialize project button.
 5. Congrats! You are now in the IDE connected with the snowflake/postgresql warehouse.
+
 
 
 ![image](/assets/dbt_cloud_ui.png)
