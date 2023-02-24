@@ -15,6 +15,8 @@ First step we will be taking is connecting a data source. Here we can fill out d
 
 
 Once that is all setup you will have the main view of your canvas and your data sources to your right.
+
+
 ![image](/assets/looker_data_source.png)
 
 
