@@ -4,7 +4,7 @@ This project shows an end to end Data Engineering project on Japanese animation 
 ## Inspiraations
 Anime was one of my favorite childhoood/early years pass times and to this day I still watch one or two from time to time from friend recommendations. It's one of those entertainment forms that will hold a timeless value to me. Thus, I thought I would give a go at applying some of what I love to my work and here is what has come to fruition.
 
-I hope you enjoy the results!
+I hope you enjoy the results!!!
 
 ## Project Flowchart
 The general infrastructure of this project will be centered around what has been shown in the charts.
@@ -40,3 +40,5 @@ Below are the steps for setting up this whole project and my own process/documen
 3. [Postgres & Snowflake](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/db_choice.md)
 4. [DBT](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dbt_process.md)
 5. [Dashboarding](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/dash.md)
+
+[Next](https://github.com/jaytar0/DE_flow_anime_2022/blob/main/md_collection/data_source.md)
